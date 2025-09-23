@@ -21,3 +21,5 @@ It combines exploratory analysis, clustering (e.g., RFM + K-Means), and visualiz
 ## Current Status
 - Repo initialized
 - Dataset selection in progress
+
+https://github.com/nailson/ifood-data-business-analyst-test
